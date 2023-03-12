@@ -18,7 +18,7 @@
         "*://*.buses.in.ua/*"
       ],
       "js": [ "index.js" ],
-      "css": [ "dist/menu-styles.css", "dist/menu-styles.min.css" ],
+      "css": [ "menu-styles.css" ],
       "run_at": "document_start"
     }
   ]

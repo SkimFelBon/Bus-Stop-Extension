@@ -1,7 +1,8 @@
 .leaflet-layerstree-header-name > b {
   font-size: 2rem;
-  padding-left: .5em;
+  padding-left: 0.5em;
 }
+
 .leaflet-layerstree-header input {
   width: 2rem;
   height: 2rem;
@@ -29,10 +30,10 @@
 }
 
 .modal .modal_content {
-	overflow: scroll;
-	min-width: 340px;
-	max-width: 98%;
-	max-height: 89%;
+  overflow: scroll;
+  min-width: 340px;
+  max-width: 98%;
+  max-height: 89%;
 }
 
 .modal .modal_content .close_modal_window {
